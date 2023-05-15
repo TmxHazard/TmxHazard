@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TmxHazard
-- 👀 I’m interested in computers and technology 
-- 🌱 I’m currenty joining engineeing 
+- 👀 I’m interested in cybersecurity and hacking
+- 🌱 I’m currenty doing engineeing 
 - 💞️ I’m looking to collaborate on anykind of projects
 - 📫 How to reach me adithyadabbara44@gmail.com
 
