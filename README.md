@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TmxHazard
-- 👀 I’m interested in cybersecurity and hacking
-- 🌱 I’m currently doing engineering 
+- 👀 I’m interested in cybersecurity, hacking contests & tech related aspects
+- 🌱 I’m currently studying engineering 
 - 💞️ I’m looking to collaborate on any kind of project based on cybersecurity applications and app development
 - 📫 How to reach me adithyadabbara@gmail.com
 
