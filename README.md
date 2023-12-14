@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TmxHazard
 - 👀 I’m interested in cybersecurity, hacking contests & tech related aspects
-- 🌱 I’m currently studying engineering 
-- 💞️ I’m looking to collaborate on any kind of project based on cybersecurity applications and app development
+- 🌱 I’m currently pursuing a computer science degree in cybersecurity,IOT & cloud computing with blockchain technology  
+- 💞️ I’m interested in collaborating on any kind of project based on cybersecurity applications and app development
 - 📫 How to reach me adithyadabbara@gmail.com
-
-<!---
-TmxHazard/TmxHazard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
